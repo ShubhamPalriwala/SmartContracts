@@ -4,7 +4,7 @@ This is the second course of the Blockchain Specialization offered by University
 
 This repository contains various programs I've coded while learning Solidity.
 
-The Final Project of the Cuurse  is [AuctionVersion2.sol](https://github.com/ShubhamPalriwala/Solidity-Basics/blob/master/AuctionVersion2.sol)
+The Final Project of the Course  is [AuctionVersion2.sol](https://github.com/ShubhamPalriwala/Solidity-Basics/blob/master/AuctionVersion2.sol)
 
 It is a Smart Contract made to conduct an Auction.
 
