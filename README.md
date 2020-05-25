@@ -16,7 +16,7 @@ More details can be found here:
 # How to run?
 
 - Open [Remix IDE](http://remix.ethereum.org/)
-- copy code from `AuctionVersion2.sol`
+- copy code from [`AuctionVersion2.sol`](https://github.com/ShubhamPalriwala/Solidity-Basics/blob/master/AuctionVersion2.sol)
 - Compile and deploy
 - Done - You should be able to interact with the Smart Contract registering bidders, placing bids and revealing winners
 
